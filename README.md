@@ -1,9 +1,7 @@
 # Verificador de palíndromo.
 
-<br>
-
-## O que é?
-Palíndromo é uma palavra, frase ou número que permanece igual quando lida de trás para diante. Por extensão, palíndromo é qualquer série de elementos com simetria linear, ou seja, que apresenta a mesma sequência de unidades nos dois sentidos.
+# Descrição
+Função JavaScript para verificar se uma palavra é palíndromo.
 
 <br>
 
@@ -33,3 +31,9 @@ $ code .
 - Selecione todo o código.
 - Pressione `Ctrl` + `Alt` + `N`  
 - Depois disso irá aparecer um terminal exibindo o resultado.
+
+<br>
+<br> 
+<br>
+
+Por: <a href="https://github.com/gustamtz"> gustamtz</a>
