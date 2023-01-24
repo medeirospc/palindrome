@@ -1,4 +1,4 @@
-# Verificador de palíndromo.
+# Is palindrome?
 
 # Descrição
 Função JavaScript para verificar se uma palavra é palíndromo.
