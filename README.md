@@ -8,20 +8,14 @@ Função JavaScript para verificar se uma palavra é palíndromo.
 ## Instalação
 Use os seguintes comandos usando git:
 
-```
-$ git init
-```
+```sh
+$ git init # iniciando um repositório no git.
 
-```
-$ git clone endereço-do-repositório
-```
+$ git clone endereço-do-repositório # clonando a pasta do github.
 
-```
-$ cd local-pasta-repositório
-```
+$ cd is-palindrome # acessando a pasta clonada.
 
-```
-$ code .
+$ code . # abrindo o source do projeto.
 ```
 
 <br>
